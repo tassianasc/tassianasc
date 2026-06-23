@@ -1,5 +1,5 @@
 # Olá, eu sou a Tássia Nascimento 👋
-Analista de Dados | Python • SQL • Power BI • Estatística
+Engenheria de Software | Analista de Dados | Python • SQL • Power BI • Estatística
 Transformo dados em insights acionáveis para orientar decisões de negócio.
 
 ---
@@ -35,7 +35,7 @@ Principais competências:
 
 ## Contato
 - E-mail: nascimentotassi@gmail.com
-- LinkedIn: https://www.linkedin.com/in/seu-perfil  
+- LinkedIn: https://www.linkedin.com/in/t%C3%A1ssia-nascimento-131b43245/
 ---
 
 Se quiser ver algo específico no meu GitHub, confira os repositórios com as tags: data-analysis, power-bi, python, sql.
