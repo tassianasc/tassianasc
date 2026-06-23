@@ -1,5 +1,5 @@
 # Olá, eu sou a Tássia Nascimento 👋
-Engenheria de Software | Analista de Dados | Python • SQL • Power BI • Estatística
+Engenheira de Software | Analista de Dados | Python • SQL • Power BI • Estatística
 Transformo dados em insights acionáveis para orientar decisões de negócio.
 
 ---
