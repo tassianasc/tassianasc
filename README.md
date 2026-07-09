@@ -54,8 +54,3 @@ Principais competências:
 </p>
 
 ---
-
-Se quiser destacar mais tecnologias ou trocar cores/estilo dos badges, eu atualizo. Também posso:
-- Adicionar ícones menores (style=flat-square) para menos poluição visual.
-- Inserir GIF/ilustração ou foto sua (se fornecer a URL).
-- Incluir estatísticas do GitHub (GitHub Readme Stats) ou animações de linguagem.
