@@ -1,5 +1,5 @@
 # Olá, eu sou a Tássia Nascimento 👋  
-Analista de Dados | Python • SQL • Power BI • Estatística  
+Engenheria de Software | Analista de Dados | Python • SQL • Power BI • Estatística  
 Transformo dados em insights acionáveis para orientar decisões de negócio.
 
 ---
@@ -19,7 +19,7 @@ Transformo dados em insights acionáveis para orientar decisões de negócio.
 ---
 
 ## Sobre mim
-Sou Analista de Dados com foco em limpeza, modelagem e visualização de dados. Tenho experiência em transformar conjuntos de dados complexos em relatórios claros e dashboards interativos que apoiam decisões estratégicas.
+Engenheria de Software especialista em Análise de Dados com foco em limpeza, modelagem e visualização de dados. Tenho experiência em transformar conjuntos de dados complexos em relatórios claros e dashboards interativos que apoiam decisões estratégicas.
 
 Principais competências:
 - Análise exploratória de dados (EDA) e modelagem estatística  
