@@ -30,9 +30,9 @@ Principais competências:
 ---
 
 ## Ferramentas & Tecnologias
-- Linguagens: Python, SQL, R (opcional)  
+- Linguagens: Python, SQL
 - Bibliotecas: pandas, numpy, scikit-learn, matplotlib, seaborn, plotly  
-- BI: Power BI, Tableau  
+- BI: Power BI
 - Banco de dados: PostgreSQL, MySQL, SQLite  
 - Workflow & versionamento: Git, GitHub  
 - Outros: Excel avançado e Docker (básico)
