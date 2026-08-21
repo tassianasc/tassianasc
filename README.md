@@ -5,14 +5,6 @@
 Transformo dados complexos em **insights acionáveis** e construo **soluções end-to-end** que orientam decisões estratégicas de negócio. Especialista em pipelines de dados, análise exploratória, visualizações impactantes e automação inteligente.
 
 ---
-
-<div align="center">
-
-| <img src="https://img.shields.io/badge/📍%20Localização-Rio%20de%20Janeiro-blue?style=flat" /> | <img src="https://img.shields.io/badge/💼%20Status-Disponível-brightgreen?style=flat" /> | <img src="https://img.shields.io/badge/🎯%20Foco-Dados-orange?style=flat" /> |
-|---|---|---|
-
-</div>
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tassianascimento?utm_source=share_via&utm_content=profile&utm_campaign=share_via)
