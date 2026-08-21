@@ -107,7 +107,7 @@ Transformo dados complexos em **insights acionáveis** e construo **soluções e
 
 ---
 
-## 📞 Entre em Contato
+## Entre em Contato
 
 <div align="center">
 
