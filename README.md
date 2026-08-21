@@ -2,20 +2,20 @@
 
 ### **Engenheira de Software | Analista de Dados | Data Engineer** 
 
-Transformo dados complexos em **insights acionáveis** e construo **soluções end-to-end** que orientam decisões estratégicas de negócio. Especialista em pipelines de dados, análise exploratória e desenvolvimento backend escalável.
+Transformo dados complexos em **insights acionáveis** e construo **soluções end-to-end** que orientam decisões estratégicas de negócio. Especialista em pipelines de dados, análise exploratória, visualizações impactantes e automação inteligente.
 
 ---
 
 <div align="center">
 
-| <img src="https://img.shields.io/badge/📍%20Localização-Rio%20de%20Janeiro-blue?style=flat" /> | <img src="https://img.shields.io/badge/💼%20Status-Disponível-brightgreen?style=flat" /> | <img src="https://img.shields.io/badge/🎯%20Foco-Data%20%26%20Backend-orange?style=flat" /> |
+| <img src="https://img.shields.io/badge/📍%20Localização-Rio%20de%20Janeiro-blue?style=flat" /> | <img src="https://img.shields.io/badge/💼%20Status-Disponível-brightgreen?style=flat" /> | <img src="https://img.shields.io/badge/🎯%20Foco-Dados-orange?style=flat" /> |
 |---|---|---|
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tassianascimento?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tassianascimento?utm_source=share_via&utm_content=profile&utm_campaign=share_via)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nascimentotassi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tassianasc)
 
@@ -39,6 +39,7 @@ Transformo dados complexos em **insights acionáveis** e construo **soluções e
 <p>
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+  <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
   <a href="https://www.w3.org/html/"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" /></a>
   <a href="https://www.w3schools.com/css/"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
 </p>
@@ -93,7 +94,7 @@ Transformo dados complexos em **insights acionáveis** e construo **soluções e
 | **🔧 Data Engineering** | ETL/ELT, pipelines, transformações, modelagem dimensional |
 | **💾 SQL & Databases** | Queries otimizadas, design de schemas, normalização, índices |
 | **📊 BI & Visualização** | Dashboards interativos, Power BI, matplotlib, seaborn, plotly |
-| **📊 Excel** | VBA, análise financeira, modelagem avançada, Power Query, VLOOKUP, análise de cenários |
+| **📊 Excel** | Análise de dados, análise financeira, modelagem avançada, Power Query, VLOOKUP, análise de cenários |
 | **🐍 Python** | pandas, numpy, scikit-learn, automação e scripts |
 | **🐳 Docker** | Containerização, compose, CI/CD |
 | **⚙️ Backend** | Django, Flask, FastAPI, RESTful APIs |
@@ -114,23 +115,11 @@ Transformo dados complexos em **insights acionáveis** e construo **soluções e
 
 ---
 
-## 📂 Principais Projetos
-
-- **📈 [Análise Exploratória de Vendas](https://github.com/tassianasc/analise-exploratoria-vendas)** - EDA com Python | Pandas | NumPy | Matplotlib | Seaborn
-- **📊 [Análise Exploratória](https://github.com/tassianasc/analiseExploratoria)** - Jupyter Notebook | Estatística | Visualizações
-- **🌐 [Aplicação Node + MongoDB](https://github.com/tassianasc/aplicacaoNodeMongoDb)** - Backend | NoSQL | JavaScript
-- **🔙 [Microsserviços Backend](https://github.com/tassianasc/back_microsservicos)** - Arquitetura escalável | Node.js
-- **🎓 [Aulas Análise de Dados](https://github.com/tassianasc/Aulas_Analise-Dados)** - Material educativo | Conteúdo
-
-*[Ver todos os repositórios →](https://github.com/tassianasc?tab=repositories)*
-
----
-
 ## 📞 Entre em Contato
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tassianascimento?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tassianascimento?utm_source=share_via&utm_content=profile&utm_campaign=share_via)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nascimentotassi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tassianasc)
 
